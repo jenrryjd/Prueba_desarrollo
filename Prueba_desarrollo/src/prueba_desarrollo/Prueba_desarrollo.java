@@ -17,7 +17,7 @@ public class Prueba_desarrollo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null,"sadasdasd");
+        JOptionPane.showMessageDialog(null,"sadasMARCOSdasd");
     }
     
 }
